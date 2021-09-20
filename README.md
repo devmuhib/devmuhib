@@ -3,7 +3,7 @@
 I'm a Front-end Web Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.
 
 
-♥️ I enjoy To make people laugh and coding. <br/>
+♥️ I enjoy to make people laugh and coding. <br/>
 🤔 I’m looking for people who can help me with Outstanding project ideas. <br/>
 📫 How to reach me: [email](muhib5532@gmail.com) or [facebook](https://www.facebook.com/muhib160) <br/>
 💬 Ask me about anything <br/>
