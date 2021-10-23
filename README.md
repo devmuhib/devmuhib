@@ -4,7 +4,6 @@ I'm a Front-end Web Developer. My experience has provided me with the experience
 
 
 ♥️ I enjoy to make people laugh and coding. <br/>
-🤔 I’m looking for people who can help me with Outstanding project ideas and react.js and node.js. <br/>
 📫 How to reach me: [email](muhib5532@gmail.com) or [facebook](https://www.facebook.com/muhib160) <br/>
 💬 Ask me about anything <br/>
 
