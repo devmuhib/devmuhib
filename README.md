@@ -21,3 +21,9 @@ I'm a Front-end Web Developer. My experience has provided me with the experience
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=muhib160.muhib160)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username==muhib160&show_icons=true&locale=en&layout=compact" alt="muhib160" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhib160&show_icons=true&locale=en" alt="muhib160" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhib160&" alt="muhib160" /></p>
