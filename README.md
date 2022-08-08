@@ -4,13 +4,13 @@ I'm a Front-end Web Developer. My experience has provided me with the experience
 
 
 ♥️ I enjoy to make people laugh and coding. <br/>
-📫 How to reach me: [email](muhib5532@gmail.com) or [facebook](https://www.facebook.com/muhib160) <br/>
+📫 How to reach me: [email](muhib5532@gmail.com) or [instagram](https://www.instagram.com/codingwithmuhib) <br/>
 💬 Ask me about anything <br/>
 
 
 #### Connect with me:
 
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCw7HsJmGF6Du7Lo3QnddvnA) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/muhib160) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhib160/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhib_160)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/CodingWithMuhib) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/codingwithmuhib) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codingwithmuhib/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codingwithmuhib)
 
 
 #### Things I code with
@@ -20,10 +20,10 @@ I'm a Front-end Web Developer. My experience has provided me with the experience
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=muhib160.muhib160)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=codingwithmuhib.codingwithmuhib)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhib160" alt="muhib160" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithmuhib" alt="codingwithmuhib" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhib160&show_icons=true&locale=en" alt="muhib160" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingwithmuhib&show_icons=true&locale=en" alt="codingwithmuhib" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhib160&" alt="muhib160" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingwithmuhib&" alt="codingwithmuhib" /></p>
