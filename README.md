@@ -4,7 +4,7 @@ I'm a Front-end Web Developer. My experience has provided me with the experience
 
 
 ♥️ I enjoy to make people laugh and coding. <br/>
-📫 How to reach me: [email](dev.muhib01@gmail.com) or [instagram](https://www.instagram.com/muhib160.official) <br/>
+📫 How to reach me: [email](dev.muhib01@gmail.com) or [instagram](https://www.instagram.com/ayee_muhib) <br/>
 💬 Ask me about anything <br/>
 
 
