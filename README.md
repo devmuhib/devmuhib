@@ -20,7 +20,7 @@ I'm a MERN STACK Web Developer. My experience has provided me with the experienc
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=devmuhib.devmuhib)
+###![Visitor Count](https://profile-counter.glitch.me/devmuhib/count.svg)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmuhib" alt="devmuhib" /></p>
 
