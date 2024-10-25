@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a MERN STACK Web Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.
+I'm Muhibur Rahman, a MERN Stack Web Developer with extensive experience in building high-quality web applications. I specialize in creating scalable, efficient, and robust solutions for a variety of web-based platforms, ensuring that my work aligns with the needs of both the business and its technical goals. My experience has equipped me with the technical expertise to support companies with sustainable and impactful software solutions.
 
 
 ♥️ I enjoy making people laugh and coding. <br/>
